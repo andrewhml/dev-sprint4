@@ -1,0 +1,5 @@
+care
+race
+bare
+bear
+hello
